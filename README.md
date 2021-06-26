@@ -54,4 +54,15 @@ The three main differences in the temperature pattern for the months of June and
 Oahu being in the north shores, the December months is when the temperature combined with rain and high winds yield the biggest waves which are very attractive to more experienced surfers. also with the water being colder in December, there will not be many swimmers around.
 
 
+### Summary of the results
+
+The analysis also collected data with regards to precipitation for the months of June and December for the years of 2010 to 2017.
+
+- The precipiation results shows that for June the average precipitation was 0.136 inches and that 75% of the time, the precipitation was lower than 0.12 inches.
+- The statistical indicators for June precipitation is shown below:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82583576/123497553-25f1a380-d5fc-11eb-8501-413c50e49ada.png">
+<img src=https://user-images.githubusercontent.com/82583576/123500395-c7ccbc80-d60b-11eb-87b1-a23b7e94a62a.png)
+  
+</p>
 
