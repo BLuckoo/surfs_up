@@ -71,4 +71,8 @@ The analysis also collected data with regards to precipitation for the months of
 <img src="https://github.com/BLuckoo/surfs_up/blob/main/dec_prcp_stats.PNG">
 </p>
 
+The results of the analyses of temperatures and precipitation for the months of June and December for the period of 2010 to 2017, confirms that the conditions for surfing for more accomplished surfers is during the winter month of December when the temperature tends to be lower and with more rain, the waves are potentially bigger.
+
+The summer month of June is more attractive to more "beginner" surfers and the general public who can enjoy swimming in warmer waters and hopefully eat more ice-creams!
+
 
