@@ -23,4 +23,13 @@ To obtain the statistics about the temperature trends and to present it to the i
 - The above along with some more statistical results are illustrated in the table below:
 
          ![image](https://user-images.githubusercontent.com/82583576/123497436-86ccac00-d5fb-11eb-8c11-61aa17cfe241.png)
+         
+ - After extracting and running a statistical analysis for the months of December for the years 2010 to 2016, the following was found:
+  - The average temperature for the months of June for the eaight years is 71.04 degrees F
+  - Minimum temperature reached is 56 degrees F
+  - Maximum temperature reached is 83 degrees F
+  
+- The above along with some more statistical results are illustrated in the table below:     
+
+          
 
