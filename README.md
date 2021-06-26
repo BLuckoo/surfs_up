@@ -1,7 +1,7 @@
 ## Module 9 Challenge - Surf and Ice-Cream shop 
 
 
-**Overview of the Analysis**
+### Overview of the Analysis
 
 The objective of this analysis is to provide a potential investor in a surf and ice-cream shop with temperature trends for the months of June and December for the years 2010 to 2017 on the island of Oahu. 
 
@@ -12,3 +12,14 @@ The data used for the analysis is stored in a SQLite database. SQLAlchemy is use
 To obtain the statistics about the temperature trends and to present it to the investor, the following have been used:
 - Python queries to extract the data from the database as well as filters to get the data specific to the months on June and December.
 - The Matplotlib library has been used to visualize the data.
+
+### Results of the Analysis
+
+- After extracting and running a statistical analysis for the months of June for the years 2010 to 2017, the following was found:
+  - The average temperature for the months of June for the eaight years is 74.94 degrees F
+  - Minimum temperature reached is 64 degrees F
+  - Maximum temperature reached is 85 degrees F
+  
+- The above along with some more statistical results are illustrated in the table below:
+
+            ![image](https://user-images.githubusercontent.com/82583576/123497027-3d7b5d00-d5f9-11eb-8801-eb622e6f9042.png)
