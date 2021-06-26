@@ -64,3 +64,11 @@ The analysis also collected data with regards to precipitation for the months of
 <img src="https://github.com/BLuckoo/surfs_up/blob/main/jun_prcp_stats.PNG">
 </p>
 
+
+- The precipiation results shows that for December the average precipitation was 0.217 inches and that 75% of the time, the precipitation was lower than 0.15 inches.
+- The statistical indicators for December precipitation is shown below:
+<p align="center">
+<img src="https://github.com/BLuckoo/surfs_up/blob/main/dec_prcp_stats.PNG">
+</p>
+
+
