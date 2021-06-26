@@ -3,9 +3,9 @@
 
 ### Overview of the Analysis
 
-The objective of this analysis is to provide a potential investor in a surf and ice-cream shop with temperature trends for the months of June and December for the years 2010 to 2017 in Oahu, which is on the North Shores. 
+The objective of this analysis is to provide temperature trends for the months of June and December for the period of June 1st,2010 to June 30th, 2017 in Oahu on the North Shores for the purpose of potentially opening a surf and ice cream shop.
 
-The analysis will provide the investor with statistics for the dataset of temperatures for the months of June and December, so that he can determine the sustainability of the surf and ice-cream shop business.
+A statistical analysis of temperatures for the months of June and December will be provided so that the investor can determine the sustainability of the surf and ice cream shop.
 
 The data used for the analysis is stored in a SQLite database. SQLAlchemy is used for the code written using Python to communicate with the database.
 
@@ -49,9 +49,10 @@ The three main differences in the temperature pattern for the months of June and
 
 1.  The month of December is generally colder than June, where the minimum temperatures reached are 56 degrees F for December and 64 degrees F for June.
 2.  The average temperature in June is almost 75 degrees F in June as compared to 71 degrees F in December.
-3.  75% of the time, the temperature in December is below 74 degrees F and for June 75% of the time the temperature is below 77 degrees F.
+3.  The temperature in December is below 74 degrees F 75% of the time  whereas the temperature in June is below 77 degrees F 75% of the time.  
 
-Oahu being in the north shores, the December months is when the temperature combined with rain and high winds yield the biggest waves which are very attractive to more experienced surfers. also with the water being colder in December, there will not be many swimmers around.
+As Oahu is on the north shores, the temperature for December combined with rain and high winds yield the biggest waves. This is very attractive for experienced surfers however with water temperature being colder this will attract fewer swimmers. 
+
 
 
 ### Summary of the results
@@ -71,8 +72,8 @@ The analysis also collected data with regards to precipitation for the months of
 <img src="https://github.com/BLuckoo/surfs_up/blob/main/dec_prcp_stats.PNG">
 </p>
 
-The results of the analyses of temperatures and precipitation for the months of June and December for the period of 2010 to 2017, confirms that the conditions for surfing for more accomplished surfers is during the winter month of December when the temperature tends to be lower and with more rain, the waves are potentially bigger.
 
-The summer month of June is more attractive to more "beginner" surfers and the general public who can enjoy swimming in warmer waters and hopefully eat more ice-creams!
+The result of the analysis of temperature and precipitation in June and December for the period of 2010 to 2017 confirms that the best condition for experienced surfers is during the winter month of December. This is due lower temperature and increased precipitation that could potentially allow for bigger waves. 
 
+The summer month of June is more attractive to less experienced suffers and the general public due to the higher temperatures and lower precipitation. This means that there will be more people who can enjoy swimming in warmer waters and hopefully be interested in consuming lots of ice-cream! 
 
