@@ -49,5 +49,9 @@ The three main differences in the temperature pattern for the months of June and
 
 1.  The month of December is generally colder than June, where the minimum temperatures reached are 56 degrees F for December and 64 degrees F for June.
 2.  The average temperature in June is almost 75 degrees F in June as compared to 71 degrees F in December.
-3.  75% of the time, the temperature in December is below 74 degrees F and for June 75% of the time the temperature 
+3.  75% of the time, the temperature in December is below 74 degrees F and for June 75% of the time the temperature is below 77 degrees F.
+
+Oahu being in the north shores, the December months is when the temperature combined with rain and high winds yield the biggest waves which are very attractive to more experienced surfers. also with the water being colder in December, there will not be many swimmers around.
+
+
 
