@@ -61,8 +61,6 @@ The analysis also collected data with regards to precipitation for the months of
 - The precipiation results shows that for June the average precipitation was 0.136 inches and that 75% of the time, the precipitation was lower than 0.12 inches.
 - The statistical indicators for June precipitation is shown below:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82583576/123497553-25f1a380-d5fc-11eb-8501-413c50e49ada.png">
-<img src="
-  
+<img src="https://github.com/BLuckoo/surfs_up/blob/main/jun_prcp_stats.PNG">
 </p>
 
