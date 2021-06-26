@@ -22,4 +22,5 @@ To obtain the statistics about the temperature trends and to present it to the i
   
 - The above along with some more statistical results are illustrated in the table below:
 
-         
+         ![image](https://user-images.githubusercontent.com/82583576/123497436-86ccac00-d5fb-11eb-8c11-61aa17cfe241.png)
+
