@@ -21,8 +21,14 @@ To obtain the statistics about the temperature trends and to present it to the i
   - Maximum temperature reached is 85 degrees F
   
 - The above along with some more statistical results are illustrated in the table below:
+<p align="center">
+![image](https://user-images.githubusercontent.com/82583576/123497553-25f1a380-d5fc-11eb-8501-413c50e49ada.png)
 
-         ![image](https://user-images.githubusercontent.com/82583576/123497436-86ccac00-d5fb-11eb-8c11-61aa17cfe241.png)
+</p>
+
+
+
+         
          
  - After extracting and running a statistical analysis for the months of December for the years 2010 to 2016, the following was found:
   - The average temperature for the months of June for the eaight years is 71.04 degrees F
