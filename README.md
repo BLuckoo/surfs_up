@@ -26,7 +26,9 @@ To obtain the statistics about the temperature trends and to present it to the i
 <img src="https://user-images.githubusercontent.com/82583576/123497553-25f1a380-d5fc-11eb-8501-413c50e49ada.png">
 </p>
 
-     
+The line plot below shows the temperatures for the months of June for the eight year period of 2010 to 2017.
+ ![June_Temps](https://user-images.githubusercontent.com/82583576/123499095-4290da00-d602-11eb-92e8-12fcc1abb132.png)
+    
         
  - After extracting and running a statistical analysis for the months of December for the years 2010 to 2016, the following was found:
    - The average temperature for the months of June for the eaight years is 71.04 degrees F
@@ -39,7 +41,8 @@ To obtain the statistics about the temperature trends and to present it to the i
 <img src="https://github.com/BLuckoo/surfs_up/blob/main/dec_temps_stats.PNG">
 </p>
 
-![Dec_Temps](https://user-images.githubusercontent.com/82583576/123499054-e0d07000-d601-11eb-925c-15d9a1b43f65.png)
+The line plot below illustrates the temperatures for the months of December for the seven year period of 2010 to 2016.
+![Dec_Temps](https://user-images.githubusercontent.com/82583576/123499082-27be6580-d602-11eb-9e54-6b2401a83f83.png)
 
           
 
