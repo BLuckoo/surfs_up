@@ -62,7 +62,7 @@ The analysis also collected data with regards to precipitation for the months of
 - The statistical indicators for June precipitation is shown below:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82583576/123497553-25f1a380-d5fc-11eb-8501-413c50e49ada.png">
-<img src=https://user-images.githubusercontent.com/82583576/123500395-c7ccbc80-d60b-11eb-87b1-a23b7e94a62a.png)
+<img src="
   
 </p>
 
