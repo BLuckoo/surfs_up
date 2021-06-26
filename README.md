@@ -45,4 +45,9 @@ The line plot below illustrates the temperatures for the months of December for 
 ![Dec_Temps](https://user-images.githubusercontent.com/82583576/123499082-27be6580-d602-11eb-9e54-6b2401a83f83.png)
 
           
+The three main differences in the temperature pattern for the months of June and the months of December can be summarized as follows:
+
+1.  The month of December is generally colder than June, where the minimum temperatures reached are 56 degrees F for December and 64 degrees F for June.
+2.  The average temperature in June is almost 75 degrees F in June as compared to 71 degrees F in December.
+3.  75% of the time, the temperature in December is below 74 degrees F and for June 75% of the time the temperature 
 
