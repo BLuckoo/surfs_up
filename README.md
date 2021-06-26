@@ -22,13 +22,15 @@ To obtain the statistics about the temperature trends and to present it to the i
   
 - The above along with some more statistical results are illustrated in the table below:
 
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82583576/123497553-25f1a380-d5fc-11eb-8501-413c50e49ada.png">
 </p>
 
 The line plot below shows the temperatures for the months of June for the eight year period of 2010 to 2017.
- ![June_Temps](https://user-images.githubusercontent.com/82583576/123499095-4290da00-d602-11eb-92e8-12fcc1abb132.png)
-    
+
+ ![image](https://user-images.githubusercontent.com/82583576/123518852-d9e34500-d675-11eb-9aaf-c318beb10ae1.png)
+   
         
  - After extracting and running a statistical analysis for the months of December for the years 2010 to 2016, the following was determined:
    - The average temperature for the months of December for the seven years is 71.04 degrees F
@@ -42,7 +44,10 @@ The line plot below shows the temperatures for the months of June for the eight 
 </p>
 
 The line plot below illustrates the temperatures for the months of December for the seven year period of 2010 to 2016.
-![Dec_Temps](https://user-images.githubusercontent.com/82583576/123499082-27be6580-d602-11eb-9e54-6b2401a83f83.png)
+
+![image](https://user-images.githubusercontent.com/82583576/123518988-9a692880-d676-11eb-9d48-facee4eff426.png)
+
+
 
           
 The three main differences in the temperature pattern for the months of June and the months of December can be summarized as follows:
