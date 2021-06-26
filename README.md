@@ -3,7 +3,7 @@
 
 ### Overview of the Analysis
 
-The objective of this analysis is to provide a potential investor in a surf and ice-cream shop with temperature trends for the months of June and December for the years 2010 to 2017 on the island of Oahu. 
+The objective of this analysis is to provide a potential investor in a surf and ice-cream shop with temperature trends for the months of June and December for the years 2010 to 2017 in Oahu, which is on the North Shores. 
 
 The analysis will provide the investor with statistics for the dataset of temperatures for the months of June and December, so that he can determine the sustainability of the surf and ice-cream shop business.
 
@@ -35,7 +35,11 @@ To obtain the statistics about the temperature trends and to present it to the i
   
 - The above along with some more statistical results are illustrated in the table below:     
 
+<p align="center">
+<img src="https://github.com/BLuckoo/surfs_up/blob/main/dec_temps_stats.PNG">
+</p>
 
+![Dec_Temps](https://user-images.githubusercontent.com/82583576/123499054-e0d07000-d601-11eb-925c-15d9a1b43f65.png)
 
           
 
