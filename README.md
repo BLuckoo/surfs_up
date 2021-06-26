@@ -3,7 +3,7 @@
 
 ### Overview of the Analysis
 
-The objective of this analysis is to provide temperature trends for the months of June and December for the period of June 1st,2010 to June 30th, 2017 in Oahu on the North Shores for the purpose of potentially opening a surf and ice cream shop.
+The objective of this analysis is to provide temperature trends for the months of June and December for the period of June 1st, 2010 to June 30th, 2017 in Oahu on the North Shores for the purpose of potentially opening a surf and ice cream shop.
 
 A statistical analysis of temperatures for the months of June and December will be provided so that the investor can determine the sustainability of the surf and ice cream shop.
 
@@ -11,12 +11,12 @@ The data used for the analysis is stored in a SQLite database. SQLAlchemy is use
 
 To obtain the statistics about the temperature trends and to present it to the investor, the following have been used:
 - Python queries to extract the data from the database as well as filters to get the data specific to the months on June and December.
-- The Matplotlib library has been used to visualize the data.
+- For visualization of the data, the Matplotlib library has been used.
 
 ### Results of the Analysis
 
-- After extracting and running a statistical analysis for the months of June for the years 2010 to 2017, the following was found:
-  - The average temperature for the months of June for the eaight years is 74.94 degrees F
+- After extracting and running a statistical analysis for the months of June for the years 2010 to 2017, the following was determined:
+  - The average temperature for the months of June for the eight years is 74.94 degrees F
   - Minimum temperature reached is 64 degrees F
   - Maximum temperature reached is 85 degrees F
   
@@ -30,8 +30,8 @@ The line plot below shows the temperatures for the months of June for the eight 
  ![June_Temps](https://user-images.githubusercontent.com/82583576/123499095-4290da00-d602-11eb-92e8-12fcc1abb132.png)
     
         
- - After extracting and running a statistical analysis for the months of December for the years 2010 to 2016, the following was found:
-   - The average temperature for the months of June for the eaight years is 71.04 degrees F
+ - After extracting and running a statistical analysis for the months of December for the years 2010 to 2016, the following was determined:
+   - The average temperature for the months of December for the seven years is 71.04 degrees F
    - Minimum temperature reached is 56 degrees F
    - Maximum temperature reached is 83 degrees F
   
@@ -48,7 +48,7 @@ The line plot below illustrates the temperatures for the months of December for 
 The three main differences in the temperature pattern for the months of June and the months of December can be summarized as follows:
 
 1.  The month of December is generally colder than June, where the minimum temperatures reached are 56 degrees F for December and 64 degrees F for June.
-2.  The average temperature in June is almost 75 degrees F in June as compared to 71 degrees F in December.
+2.  The average temperature is almost 75 degrees F in June as compared to 71 degrees F in December.
 3.  The temperature in December is below 74 degrees F 75% of the time  whereas the temperature in June is below 77 degrees F 75% of the time.  
 
 As Oahu is on the north shores, the temperature for December combined with rain and high winds yield the biggest waves. This is very attractive for experienced surfers however with water temperature being colder this will attract fewer swimmers. 
@@ -59,14 +59,14 @@ As Oahu is on the north shores, the temperature for December combined with rain 
 
 The analysis also collected data with regards to precipitation for the months of June and December for the years of 2010 to 2017.
 
-- The precipiation results shows that for June the average precipitation was 0.136 inches and that 75% of the time, the precipitation was lower than 0.12 inches.
+- The precipitation results shows that for June the average precipitation was 0.136 inches and that 75% of the time, the precipitation was lower than 0.12 inches.
 - The statistical indicators for June precipitation is shown below:
 <p align="center">
 <img src="https://github.com/BLuckoo/surfs_up/blob/main/jun_prcp_stats.PNG">
 </p>
 
 
-- The precipiation results shows that for December the average precipitation was 0.217 inches and that 75% of the time, the precipitation was lower than 0.15 inches.
+- The precipitation results shows that for December the average precipitation was 0.217 inches and that 75% of the time, the precipitation was lower than 0.15 inches.
 - The statistical indicators for December precipitation is shown below:
 <p align="center">
 <img src="https://github.com/BLuckoo/surfs_up/blob/main/dec_prcp_stats.PNG">
